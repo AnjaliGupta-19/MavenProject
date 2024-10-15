@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T23:36:44 IST" name="Default suite" finished-at="2024-09-27T23:38:49 IST" duration-ms="124966">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T23:36:44 IST" name="Default test" finished-at="2024-09-27T23:38:49 IST" duration-ms="124966">
+      <class name="TestNg.DemoLogin">
+        <test-method signature="setup()[pri:0, instance:TestNg.DemoLogin@25084a1e]" started-at="2024-09-27T23:36:44 IST" name="setup" finished-at="2024-09-27T23:36:57 IST" duration-ms="12953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FullName()[pri:1, instance:TestNg.DemoLogin@25084a1e]" started-at="2024-09-27T23:36:57 IST" name="FullName" finished-at="2024-09-27T23:36:57 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FullName -->
+        <test-method signature="EnterEmail()[pri:2, instance:TestNg.DemoLogin@25084a1e]" started-at="2024-09-27T23:36:57 IST" name="EnterEmail" finished-at="2024-09-27T23:36:57 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterEmail -->
+        <test-method signature="click_On_signup_button()[pri:3, instance:TestNg.DemoLogin@25084a1e]" started-at="2024-09-27T23:36:57 IST" name="click_On_signup_button" finished-at="2024-09-27T23:38:49 IST" duration-ms="111711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_On_signup_button -->
+        <test-method signature="teardown()[pri:4, instance:TestNg.DemoLogin@25084a1e]" started-at="2024-09-27T23:38:49 IST" name="teardown" finished-at="2024-09-27T23:38:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNg.DemoLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
