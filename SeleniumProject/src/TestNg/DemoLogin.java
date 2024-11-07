@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class DemoLogin {
 	
-	WebDriver driver;
+	 WebDriver driver;
 
     @Test (priority = 0)
 
